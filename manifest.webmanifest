@@ -1,0 +1,16 @@
+{
+  "name": "Premium Women Therapist Lucknow",
+  "short_name": "Women Therapist",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#ea5a9a",
+  "description": "Premium women-focused home massage and wellness services across Lucknow. Large easy-to-read design, direct WhatsApp booking and area-wise service information.",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
