@@ -1,0 +1,14 @@
+VALIDATION REPORT
+Generated: 2026-08-05
+HTML files: 687
+Workbook-based pages: 676
+Support pages: 11
+Unique titles: 687
+Unique canonicals: 687
+WhatsApp URL occurrences: 3724
+Phone display occurrences: 3725
+Email occurrences: 5391
+Old-domain occurrences: 0
+Issues: 0
+
+PASS: No missing local assets/links, duplicate titles/canonicals, old domains or unsafe relative paths detected.
